@@ -34,7 +34,7 @@ aside {
     width: 20em;
     text-align: center;
 }
-.box h2 {
+aside h2 {
     position: absolute;
     top: 30px;
     left: 130px;
